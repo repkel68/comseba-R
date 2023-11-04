@@ -1,3 +1,2 @@
 # comseba-R
-comseba R
-응애
+2023-11-04 생성
